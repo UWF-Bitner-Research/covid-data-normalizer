@@ -1,0 +1,17 @@
+C:\Users\Administrator\Documents\UWF\FinalProject\covid\Code\CovidDataExtraction\CovidDataExtraction\bin\Debug\netcoreapp2.1\CovidDataExtraction.dll.config
+C:\Users\Administrator\Documents\UWF\FinalProject\covid\Code\CovidDataExtraction\CovidDataExtraction\bin\Debug\netcoreapp2.1\CovidDataExtraction.deps.json
+C:\Users\Administrator\Documents\UWF\FinalProject\covid\Code\CovidDataExtraction\CovidDataExtraction\bin\Debug\netcoreapp2.1\CovidDataExtraction.runtimeconfig.json
+C:\Users\Administrator\Documents\UWF\FinalProject\covid\Code\CovidDataExtraction\CovidDataExtraction\bin\Debug\netcoreapp2.1\CovidDataExtraction.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\UWF\FinalProject\covid\Code\CovidDataExtraction\CovidDataExtraction\bin\Debug\netcoreapp2.1\CovidDataExtraction.dll
+C:\Users\Administrator\Documents\UWF\FinalProject\covid\Code\CovidDataExtraction\CovidDataExtraction\bin\Debug\netcoreapp2.1\CovidDataExtraction.pdb
+C:\Users\Administrator\Documents\UWF\FinalProject\covid\Code\CovidDataExtraction\CovidDataExtraction\bin\Debug\netcoreapp2.1\CovidDataClasses.dll
+C:\Users\Administrator\Documents\UWF\FinalProject\covid\Code\CovidDataExtraction\CovidDataExtraction\bin\Debug\netcoreapp2.1\CovidDataClasses.pdb
+C:\Users\Administrator\Documents\UWF\FinalProject\covid\Code\CovidDataExtraction\CovidDataExtraction\bin\Debug\netcoreapp2.1\CovidDataClasses.xml
+C:\Users\Administrator\Documents\UWF\FinalProject\covid\Code\CovidDataExtraction\CovidDataExtraction\obj\Debug\netcoreapp2.1\CovidDataExtraction.vbprojAssemblyReference.cache
+C:\Users\Administrator\Documents\UWF\FinalProject\covid\Code\CovidDataExtraction\CovidDataExtraction\obj\Debug\netcoreapp2.1\CovidDataExtraction.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\UWF\FinalProject\covid\Code\CovidDataExtraction\CovidDataExtraction\obj\Debug\netcoreapp2.1\CovidDataExtraction.AssemblyInfo.vb
+C:\Users\Administrator\Documents\UWF\FinalProject\covid\Code\CovidDataExtraction\CovidDataExtraction\obj\Debug\netcoreapp2.1\CovidDataExtraction.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\UWF\FinalProject\covid\Code\CovidDataExtraction\CovidDataExtraction\obj\Debug\netcoreapp2.1\CovidDataExtraction.vbproj.CopyComplete
+C:\Users\Administrator\Documents\UWF\FinalProject\covid\Code\CovidDataExtraction\CovidDataExtraction\obj\Debug\netcoreapp2.1\CovidDataExtraction.dll
+C:\Users\Administrator\Documents\UWF\FinalProject\covid\Code\CovidDataExtraction\CovidDataExtraction\obj\Debug\netcoreapp2.1\CovidDataExtraction.pdb
+C:\Users\Administrator\Documents\UWF\FinalProject\covid\Code\CovidDataExtraction\CovidDataExtraction\obj\Debug\netcoreapp2.1\CovidDataExtraction.genruntimeconfig.cache

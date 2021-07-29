@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\UWF\FinalProject\covid\Code\CovidDataExtraction\CovidDataClasses\bin\Debug\CovidDataClasses.dll
+C:\Users\Administrator\Documents\UWF\FinalProject\covid\Code\CovidDataExtraction\CovidDataClasses\bin\Debug\CovidDataClasses.pdb
+C:\Users\Administrator\Documents\UWF\FinalProject\covid\Code\CovidDataExtraction\CovidDataClasses\bin\Debug\CovidDataClasses.xml
+C:\Users\Administrator\Documents\UWF\FinalProject\covid\Code\CovidDataExtraction\CovidDataClasses\obj\Debug\CovidDataClasses.vbprojAssemblyReference.cache
+C:\Users\Administrator\Documents\UWF\FinalProject\covid\Code\CovidDataExtraction\CovidDataClasses\obj\Debug\CovidDataClasses.Resources.resources
+C:\Users\Administrator\Documents\UWF\FinalProject\covid\Code\CovidDataExtraction\CovidDataClasses\obj\Debug\CovidDataClasses.vbproj.GenerateResource.cache
+C:\Users\Administrator\Documents\UWF\FinalProject\covid\Code\CovidDataExtraction\CovidDataClasses\obj\Debug\CovidDataClasses.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\UWF\FinalProject\covid\Code\CovidDataExtraction\CovidDataClasses\obj\Debug\CovidDataClasses.dll
+C:\Users\Administrator\Documents\UWF\FinalProject\covid\Code\CovidDataExtraction\CovidDataClasses\obj\Debug\CovidDataClasses.xml
+C:\Users\Administrator\Documents\UWF\FinalProject\covid\Code\CovidDataExtraction\CovidDataClasses\obj\Debug\CovidDataClasses.pdb

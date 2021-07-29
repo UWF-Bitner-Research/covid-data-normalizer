@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CovidDataExtraction", "CovidDataExtraction\CovidDataExtraction.vbproj", "{9E86462C-F897-451A-9700-FC00C38B4BC0}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4AD68E35-A64E-4B92-B2F5-3A3FA5621CDF} = {4AD68E35-A64E-4B92-B2F5-3A3FA5621CDF}
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CovidDataClasses", "CovidDataClasses\CovidDataClasses.vbproj", "{4AD68E35-A64E-4B92-B2F5-3A3FA5621CDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E86462C-F897-451A-9700-FC00C38B4BC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E86462C-F897-451A-9700-FC00C38B4BC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E86462C-F897-451A-9700-FC00C38B4BC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E86462C-F897-451A-9700-FC00C38B4BC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AD68E35-A64E-4B92-B2F5-3A3FA5621CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AD68E35-A64E-4B92-B2F5-3A3FA5621CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AD68E35-A64E-4B92-B2F5-3A3FA5621CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AD68E35-A64E-4B92-B2F5-3A3FA5621CDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0249D1FD-E431-47C8-BFBE-A026055240BE}
+	EndGlobalSection
+EndGlobal

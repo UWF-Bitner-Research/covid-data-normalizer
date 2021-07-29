@@ -1,0 +1,55 @@
+﻿Code,Code Description,Code Category,Code Type,Data Type
+STATE,State,State,State,text
+POSTCODE,State Abbreviation,n/a,note,text
+CLSCHOOL,Date closed K-12 public schools,physical_distance_closure,start,date
+CLDAYCR,Closed day cares,physical_distance_closure,start,date
+OPNCLDCR,Reopen day cares,Reopening,end,date
+CLNURSHM,Date banned visitors to nursing homes,physical_distance_closure,start,date
+STAYHOME,Stay at home/ shelter in place,shelter,start,date
+STAYHOMENOGP,Stay at home order' issued but did not specifically restrict movement of the general public,shelter,start,date
+END_STHM,End/relax stay at home/shelter in place,shelter,end,date
+CLBSNS,Closed other non-essential businesses,business_closure,start,date
+END_BSNS,Began to reopen businesses,business_closure,end,date
+FM_ALL,Mandate face mask use by all individuals in public spaces,masks,start,date
+FM_ALL2,Second mandate for facemasks by all individuals in public places,masks,start,date
+FM_EMP,Mandate face mask use by employees in public-facing businesses,masks,start,date
+FM_END,State ended statewide mask use by individuals in public spaces,masks,end,date
+FM_STP,Attempt by state government to prevent local governments from implementing face mask orders,masks,start,date
+CLREST,Closed restaurants except take out,physical_distance_closures,start,date
+ENDREST,Reopen restaurants,reopening,end,date
+CLGYM,Closed gyms,physical_distance_closures,start,date
+ENDGYM,Reopened gyms,reopening,end,date
+CLMOVIE,Closed movie theaters,physical_distance_closures,start,date
+END_MOV,Reopened movie theaters,reopening,end,date
+CLOSEBAR,Closed Bars,physical_distance_closures,start,date
+END_BRS,Reopen bars,reopening,end,date
+END_HAIR,Reopened hair salons/barber shops,reopening,end,date
+END_RELG,Reopen Religious Gatherings,reopening,end,date
+ENDRETL,Reopen other non-essential retail,reopening,end,date
+BCLBAR2,Begin to Re-Close Bars,second_closures,start,date
+CLBAR2,Re-Close Bars (statewide),second_closures,start,date
+CLMV2,Re-Close Movie Theaters (statewide),second_closures,start,date
+CLHAIR2,Re-close hair salons and barber shops (statewide),second_closures,start,date
+CLGYM2,Re-Close Gyms (statewide),second_closures,start,date
+CLRST2,Re-Close Indoor Dining (Statewide),second_closures,start,date
+ENDREST2,Re-open indoor dining statewide (x2),second_closures,end,date
+END_BRS2,Re-open bars statewide (x2),second_closures,end,date
+END_CLGYM2,Re-open gyms statewide (x2),second_closures,end,date
+END_CLMV2,Re-open movie theaters statewide (x2),second_closures,end,date
+CLBAR3,Close Bars (x3),third_closures,start,date
+CLMV3,Close Movie Theaters (x3),third_closures,start,date
+CLGYM3,Close Gyms (x3),third_closures,start,date
+CLRST3,Close Indoor Dining (x3),third_closures,start,date
+QRSOMEST,Mandate quarantine for those entering the state from specific settings,quarantines,start,date
+QR_ALLST,Mandate quarantine for all individuals entering the state,quarantines,start,date
+QR_END,Date all mandated quarantines ended,quarantines,end,date
+VISITPER,Stopped personal visitation in state prisons,incarceration,start,date
+VISITATT,Stopped in-person attorney visits in state prisons,incarceration,start,date
+VISITRES,Began to resume visitation in state prisons,incarceration,end,date
+ELECPRCR,Suspended elective medical/dental procedures,healthcare_delivery,start,date
+ENDELECP,Resumed elective medical procedures,healthcare_delivery,end ,date
+ELECPRCR2,Second suspension of elective medical/dental procedures ,healthcare_delivery,start,date
+CASCLOSE,State-Mandated Casino Closure,physical_distance_closures,start,date
+CASOPEN,State-Mandated Casino Re-Opening ,reopening,end,date
+CASCLOSE2,Second Casino Closure,second_closures,start,date
+CASOPEN2,Second Casino Re-Opening,second_closures,end,date

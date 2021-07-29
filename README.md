@@ -14,3 +14,4 @@ You will need to update the web.config file in the presentation solution to incl
 Inside the database folder, you'll find the scripts used to create all tables and procs necessary to use the application
 The datasources folder contains examples of what files you should use, using the datasources above
 The datasources files are likely out of date - you can use them for testing, but for serious analysis you should update with the latest data from the above links.
+
