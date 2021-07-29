@@ -1,5 +1,6 @@
 # Zachary Pope and Steven Bitner
 zap6@students.uwf.edu
+
 sbitner@uwf.edu
 
 ## Data sources
